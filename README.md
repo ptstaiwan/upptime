@@ -24,7 +24,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://ptstaiwan-bot.github.io/upptime)
+[**Visit our status website →**](https://newmedia.pts.org.tw/upptime/)
 
 ## 📄 License
 
