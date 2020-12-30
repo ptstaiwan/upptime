@@ -28,6 +28,6 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 ## 📄 License
 
-- Powered by: [Upptime](https://github.com/upptime/upptime)
+- Powered by: [Upptime](https://newmedia.pts.org.tw/upptime/)
 - Code: [MIT](./LICENSE) © [ptstaiwan-bot](https://ptstaiwan-bot.github.io/upptime)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
