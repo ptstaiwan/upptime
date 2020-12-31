@@ -10,7 +10,7 @@ sites:
     url: https://www.ptsplus.tv/
   - name: PTS NEWS 公視新聞網
     url: https://news.pts.org.tw/
-  - name: PeoPo NEWS PeoPo 公民新聞
+  - name: PeoPo 公民新聞
     url: https://www.peopo.org/
   - name: PTS Friends 公視之友
     url: https://friends.pts.org.tw/
