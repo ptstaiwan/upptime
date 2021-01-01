@@ -29,7 +29,7 @@
 
 <!--end: status pages-->
 
-[**查看目前 PTS 各網站服務狀態 →**](https://newmedia.pts.org.tw/upptime/)
+[**查看 PTS 目前各網站服務狀態 →**](https://newmedia.pts.org.tw/upptime/)
 
 ## 📄 License
 
