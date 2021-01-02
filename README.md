@@ -1,4 +1,4 @@
-# [📈 目前服務狀態](https://newmedia.pts.org.tw/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 目前狀態](https://newmedia.pts.org.tw/upptime): <!--live status--> **🟩 All systems operational**
 
 此開源專案為 [upptime](https://github.com/upptime/upptime) 開發，[ptstaiwan](https://github.com/ptstaiwan) 維護的網站監控服務
 
@@ -29,7 +29,7 @@
 
 <!--end: status pages-->
 
-[**查看 PTS 目前各網站服務狀態 →**](https://newmedia.pts.org.tw/upptime/)
+[**查看目前各網站服務狀態 →**](https://newmedia.pts.org.tw/upptime/)
 
 ## 📄 License
 
