@@ -8,12 +8,14 @@ sites:
     url: https://www.pts.org.tw/
   - name: PTS PLUS 公視+
     url: https://www.ptsplus.tv/
+    icon: https://www.ptsplus.tv/assets/image/pts_ico.ico
   - name: PTS NEWS 公視新聞網
     url: https://news.pts.org.tw/
   - name: PeoPo 公民新聞
     url: https://www.peopo.org/
   - name: PTS Friends 公視之友
     url: https://friends.pts.org.tw/
+    icon: https://friends.pts.org.tw/images/pts-membership-logo.png
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -22,13 +24,54 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: PTS Taiwan Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/ptstaiwan/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** 是由 GitHub 支援的開源網站監控服務"
+  introMessage: 以下是目前 PTS 各網站的服務狀況，數據來自 [GitHub Repository](https://github.com/ptstaiwan/upptime/)，我們使用 [Issues](https://github.com/ptstaiwan/upptime/issues) 回報異常事件、[Actions](https://github.com/ptstaiwan/upptime/actions) 自動化監控、[Pages](https://newmedia.pts.org.tw/upptime) 產生服務狀態頁面
   navbar:
     - title: Status
       href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  activeIncidents: 目前異常事件
+  allSystemsOperational: "🟩 所有服務皆運作正常"
+  degradedPerformance: "🟨 部分服務緩慢"
+  completeOutage: "🟥 所有服務中斷"
+  partialOutage: "🟧 部分服務中斷"
+  incidentReport: "異常事件 #$NUMBER 報告 →"
+  activeIncidentSummary: 發生在 $DATE，有 $POSTS 則回應
+  incidentTitle: 異常事件 $NUMBER 內容
+  incidentDetails: 事件細節
+  incidentFixed: 已修復
+  incidentOngoing: 尚未修復
+  incidentOpenedAt: 發生時間
+  incidentClosedAt: 修復時間
+  incidentSubscribe: 訂閱更新
+  incidentViewOnGitHub: 在 GitHub 上查看
+  incidentCommentSummary: $AUTHOR 在 $DATE 回覆
+  incidentBack: ← 返回所有事件列表
+  pastIncidents: 過去的異常事件
+  pastIncidentsResolved: 在 $MINUTES 分鐘內解決，有 $POSTS 則回應
+  liveStatus: 目前狀態
+  overallUptime: "服務健康度: $UPTIME"
+  overallUptimeTitle: 服務健康度
+  averageResponseTime: "平均回應時間: $TIMEms"
+  averageResponseTimeTitle: 平均回應時間
+  sevelDayResponseTime: 7-day response time
+  responseTimeMs: Response time (ms)
+  up: "🟩 正常"
+  degraded: "🟨 緩慢"
+  down: "🟥 中斷"
+  footer: 該 [開源]($REPO) 網頁 由 [Upptime](https://upptime.js.org) 提供
+      
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
