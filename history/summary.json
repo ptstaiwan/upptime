@@ -4,18 +4,19 @@
     "url": "https://www.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/www.pts.org.tw",
     "slug": "pts",
-    "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
     "time": 2164,
     "timeDay": 2203,
     "timeWeek": 2164,
     "timeMonth": 2164,
     "timeYear": 2164,
     "dailyMinutesDown": {
+      "2021-01-27": 2,
       "2021-01-24": 51,
       "2021-01-22": 62,
       "2021-01-19": 43,
@@ -28,10 +29,10 @@
     "url": "https://taigi.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/taigi.pts.org.tw",
     "slug": "pts-taigi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1492,
@@ -39,7 +40,9 @@
     "timeWeek": 1513,
     "timeMonth": 1492,
     "timeYear": 1492,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-27": 1
+    }
   },
   {
     "name": "PTS PLUS 公視+",
@@ -64,10 +67,10 @@
     "url": "https://www.peopo.org/",
     "icon": "https://favicons.githubusercontent.com/www.peopo.org",
     "slug": "peo-po",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2111,
@@ -75,16 +78,18 @@
     "timeWeek": 1973,
     "timeMonth": 2111,
     "timeYear": 2111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-27": 1
+    }
   },
   {
     "name": "PTS Friends 公視之友",
     "url": "https://friends.pts.org.tw/",
     "icon": "https://friends.pts.org.tw/images/pts-membership-logo.png",
     "slug": "pts-friends",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,6 +98,8 @@
     "timeWeek": 1390,
     "timeMonth": 1296,
     "timeYear": 1296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-27": 0
+    }
   }
 ]
