@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/www.pts.org.tw",
     "slug": "pts",
     "status": "up",
-    "uptime": "98.77%",
+    "uptime": "98.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.70%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.78%",
     "time": 2179,
     "timeDay": 2113,
     "timeWeek": 2222,
-    "timeMonth": 2201,
+    "timeMonth": 2195,
     "timeYear": 2179,
     "dailyMinutesDown": {
       "2021-01-27": 229,
@@ -38,7 +38,7 @@
     "time": 1515,
     "timeDay": 1730,
     "timeWeek": 1560,
-    "timeMonth": 1511,
+    "timeMonth": 1517,
     "timeYear": 1515,
     "dailyMinutesDown": {
       "2021-01-27": 229
@@ -76,7 +76,7 @@
     "time": 522,
     "timeDay": 477,
     "timeWeek": 538,
-    "timeMonth": 542,
+    "timeMonth": 543,
     "timeYear": 522,
     "dailyMinutesDown": {}
   },
@@ -140,13 +140,13 @@
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
     "status": "up",
-    "uptime": "83.80%",
-    "uptimeDay": "89.64%",
-    "uptimeWeek": "83.80%",
-    "uptimeMonth": "83.80%",
-    "uptimeYear": "83.80%",
+    "uptime": "84.70%",
+    "uptimeDay": "92.11%",
+    "uptimeWeek": "84.70%",
+    "uptimeMonth": "84.70%",
+    "uptimeYear": "84.70%",
     "time": 4121,
-    "timeDay": 7492,
+    "timeDay": 9342,
     "timeWeek": 5690,
     "timeMonth": 5690,
     "timeYear": 4121,
@@ -172,7 +172,7 @@
     "time": 2096,
     "timeDay": 1828,
     "timeWeek": 2051,
-    "timeMonth": 2108,
+    "timeMonth": 2106,
     "timeYear": 2096,
     "dailyMinutesDown": {
       "2021-01-27": 228
@@ -183,9 +183,9 @@
     "url": "https://shop.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/shop.pts.org.tw",
     "slug": "pts-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -194,7 +194,9 @@
     "timeWeek": 2007,
     "timeMonth": 2007,
     "timeYear": 2007,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "PTS Friends 公視之友",
@@ -210,7 +212,7 @@
     "time": 1347,
     "timeDay": 2811,
     "timeWeek": 1583,
-    "timeMonth": 1379,
+    "timeMonth": 1383,
     "timeYear": 1347,
     "dailyMinutesDown": {
       "2021-01-27": 228
