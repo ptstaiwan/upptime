@@ -35,7 +35,6 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  theme: dark
   name: PTS Taiwan Upptime
   introTitle: "**Upptime** 是由 GitHub 支援的開源網站監控服務"
   introMessage: 以下是目前 PTS 各網站的服務狀況，數據來自 [GitHub Repository](https://github.com/ptstaiwan/upptime/)，我們使用 [Issues](https://github.com/ptstaiwan/upptime/issues) 回報異常事件、[Actions](https://github.com/ptstaiwan/upptime/actions) 自動化監控、[Pages](https://newmedia.pts.org.tw/upptime) 產生服務狀態頁面
