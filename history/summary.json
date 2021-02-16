@@ -12,7 +12,7 @@
     "uptimeYear": "99.08%",
     "time": 2193,
     "timeDay": 2106,
-    "timeWeek": 2287,
+    "timeWeek": 2292,
     "timeMonth": 2207,
     "timeYear": 2193,
     "dailyMinutesDown": {
@@ -37,7 +37,7 @@
     "uptimeYear": "99.63%",
     "time": 1502,
     "timeDay": 1496,
-    "timeWeek": 1504,
+    "timeWeek": 1517,
     "timeMonth": 1495,
     "timeYear": 1502,
     "dailyMinutesDown": {
@@ -57,7 +57,7 @@
     "uptimeYear": "100.00%",
     "time": 815,
     "timeDay": 826,
-    "timeWeek": 850,
+    "timeWeek": 818,
     "timeMonth": 815,
     "timeYear": 815,
     "dailyMinutesDown": {}
@@ -75,7 +75,7 @@
     "uptimeYear": "100.00%",
     "time": 507,
     "timeDay": 615,
-    "timeWeek": 467,
+    "timeWeek": 465,
     "timeMonth": 513,
     "timeYear": 507,
     "dailyMinutesDown": {}
@@ -85,18 +85,20 @@
     "url": "http://web.pts.org.tw/php/programX/main.php",
     "icon": "https://favicons.githubusercontent.com/web.pts.org.tw",
     "slug": "tv-schedule",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 890,
     "timeDay": 817,
-    "timeWeek": 991,
+    "timeWeek": 971,
     "timeMonth": 890,
     "timeYear": 890,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-16": 1
+    }
   },
   {
     "name": "PTS ENG 公視英文網",
@@ -111,7 +113,7 @@
     "uptimeYear": "100.00%",
     "time": 412,
     "timeDay": 394,
-    "timeWeek": 445,
+    "timeWeek": 399,
     "timeMonth": 412,
     "timeYear": 412,
     "dailyMinutesDown": {}
@@ -129,7 +131,7 @@
     "uptimeYear": "100.00%",
     "time": 2304,
     "timeDay": 2319,
-    "timeWeek": 2421,
+    "timeWeek": 2418,
     "timeMonth": 2304,
     "timeYear": 2304,
     "dailyMinutesDown": {}
@@ -140,14 +142,14 @@
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
     "status": "up",
-    "uptime": "85.60%",
+    "uptime": "85.72%",
     "uptimeDay": "87.17%",
     "uptimeWeek": "85.77%",
-    "uptimeMonth": "85.60%",
-    "uptimeYear": "85.60%",
+    "uptimeMonth": "85.72%",
+    "uptimeYear": "85.72%",
     "time": 5149,
     "timeDay": 3144,
-    "timeWeek": 5658,
+    "timeWeek": 5550,
     "timeMonth": 5936,
     "timeYear": 5149,
     "dailyMinutesDown": {
@@ -181,7 +183,7 @@
     "uptimeYear": "99.66%",
     "time": 2044,
     "timeDay": 1978,
-    "timeWeek": 1955,
+    "timeWeek": 1953,
     "timeMonth": 2011,
     "timeYear": 2044,
     "dailyMinutesDown": {
@@ -201,7 +203,7 @@
     "uptimeYear": "99.72%",
     "time": 1951,
     "timeDay": 1975,
-    "timeWeek": 1954,
+    "timeWeek": 1975,
     "timeMonth": 1951,
     "timeYear": 1951,
     "dailyMinutesDown": {
@@ -221,7 +223,7 @@
     "uptimeYear": "99.66%",
     "time": 1326,
     "timeDay": 1230,
-    "timeWeek": 1211,
+    "timeWeek": 1205,
     "timeMonth": 1360,
     "timeYear": 1326,
     "dailyMinutesDown": {
