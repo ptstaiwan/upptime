@@ -19,8 +19,6 @@ sites:
     url: http://eng.pts.org.tw/
   - name: PTS 4K 公視 4K
     url: https://4k.pts.org.tw/
-  - name: PTS News 公視新聞網
-    url: https://news.pts.org.tw/
   - name: PeoPo 公民新聞
     url: https://www.peopo.org/
   - name: PTS Shop 公視網路商城
