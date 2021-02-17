@@ -49,9 +49,9 @@
     "url": "http://pts_3.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/pts_3.pts.org.tw",
     "slug": "pts-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -60,7 +60,9 @@
     "timeWeek": 850,
     "timeMonth": 825,
     "timeYear": 825,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-17": 0
+    }
   },
   {
     "name": "PTS PLUS 公視+",
@@ -142,11 +144,11 @@
     "icon": "https://favicons.githubusercontent.com/news.pts.org.tw",
     "slug": "pts-news",
     "status": "up",
-    "uptime": "85.72%",
+    "uptime": "85.77%",
     "uptimeDay": "87.46%",
-    "uptimeWeek": "85.19%",
-    "uptimeMonth": "85.72%",
-    "uptimeYear": "85.72%",
+    "uptimeWeek": "85.20%",
+    "uptimeMonth": "85.77%",
+    "uptimeYear": "85.77%",
     "time": 5101,
     "timeDay": 3823,
     "timeWeek": 5621,
