@@ -4,19 +4,19 @@
     "url": "https://www.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/www.pts.org.tw",
     "slug": "pts",
-    "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.05%",
-    "time": 2235,
-    "timeDay": 2499,
-    "timeWeek": 2270,
-    "timeMonth": 2318,
-    "timeYear": 2235,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "95.08%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "98.98%",
+    "time": 2237,
+    "timeDay": 2448,
+    "timeWeek": 2284,
+    "timeMonth": 2322,
+    "timeYear": 2237,
     "dailyMinutesDown": {
-      "2021-03-09": 1,
+      "2021-03-09": 71,
       "2021-03-06": 63,
       "2021-02-28": 119,
       "2021-02-27": 122,
@@ -42,7 +42,7 @@
     "time": 1476,
     "timeDay": 1351,
     "timeWeek": 1372,
-    "timeMonth": 1439,
+    "timeMonth": 1440,
     "timeYear": 1476,
     "dailyMinutesDown": {
       "2021-01-27": 229
@@ -62,7 +62,7 @@
     "time": 859,
     "timeDay": 790,
     "timeWeek": 914,
-    "timeMonth": 883,
+    "timeMonth": 877,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2021-02-17": 40
@@ -100,7 +100,7 @@
     "time": 874,
     "timeDay": 1140,
     "timeWeek": 918,
-    "timeMonth": 895,
+    "timeMonth": 887,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2021-02-16": 62
@@ -120,7 +120,7 @@
     "time": 372,
     "timeDay": 268,
     "timeWeek": 323,
-    "timeMonth": 368,
+    "timeMonth": 354,
     "timeYear": 372,
     "dailyMinutesDown": {}
   },
@@ -138,7 +138,7 @@
     "time": 2283,
     "timeDay": 2335,
     "timeWeek": 2296,
-    "timeMonth": 2305,
+    "timeMonth": 2300,
     "timeYear": 2283,
     "dailyMinutesDown": {
       "2021-03-01": 62,
@@ -159,7 +159,7 @@
     "time": 2020,
     "timeDay": 1765,
     "timeWeek": 1876,
-    "timeMonth": 1955,
+    "timeMonth": 1954,
     "timeYear": 2020,
     "dailyMinutesDown": {
       "2021-01-27": 228
@@ -179,7 +179,7 @@
     "time": 1926,
     "timeDay": 2196,
     "timeWeek": 2005,
-    "timeMonth": 1918,
+    "timeMonth": 1922,
     "timeYear": 1926,
     "dailyMinutesDown": {
       "2021-03-01": 62,
