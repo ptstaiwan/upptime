@@ -4,10 +4,10 @@
     "url": "https://www.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/www.pts.org.tw",
     "slug": "pts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 2221,
@@ -16,6 +16,7 @@
     "timeMonth": 2205,
     "timeYear": 2221,
     "dailyMinutesDown": {
+      "2021-04-22": 2,
       "2021-03-09": 71,
       "2021-03-06": 63,
       "2021-02-28": 119,
@@ -33,10 +34,10 @@
     "url": "https://taigi.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/taigi.pts.org.tw",
     "slug": "pts-taigi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1526,
@@ -45,6 +46,7 @@
     "timeMonth": 1633,
     "timeYear": 1526,
     "dailyMinutesDown": {
+      "2021-04-22": 1,
       "2021-01-27": 229
     }
   },
@@ -53,18 +55,19 @@
     "url": "http://pts_3.pts.org.tw/",
     "icon": "https://favicons.githubusercontent.com/pts_3.pts.org.tw",
     "slug": "pts-3",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 1055,
     "timeDay": 4139,
     "timeWeek": 1320,
     "timeMonth": 1350,
     "timeYear": 1055,
     "dailyMinutesDown": {
+      "2021-04-22": 1,
       "2021-02-17": 40
     }
   },
@@ -91,9 +94,9 @@
     "url": "http://web.pts.org.tw/php/programX/main.php",
     "icon": "https://favicons.githubusercontent.com/web.pts.org.tw",
     "slug": "tv-schedule",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -103,6 +106,7 @@
     "timeMonth": 1012,
     "timeYear": 924,
     "dailyMinutesDown": {
+      "2021-04-22": 0,
       "2021-02-16": 62
     }
   },
