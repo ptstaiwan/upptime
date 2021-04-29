@@ -196,9 +196,9 @@
     "url": "https://friends.pts.org.tw/",
     "icon": "https://friends.pts.org.tw/images/pts-membership-logo.png",
     "slug": "pts-friends",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
@@ -208,6 +208,7 @@
     "timeMonth": 1481,
     "timeYear": 1337,
     "dailyMinutesDown": {
+      "2021-04-29": 0,
       "2021-01-27": 228
     }
   }
