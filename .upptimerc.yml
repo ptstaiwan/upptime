@@ -16,7 +16,7 @@ sites:
   - name: TV schedule 公視節目表
     url: http://web.pts.org.tw/php/programX/main.php
   - name: PTS ENG 公視英文網
-    url: http://eng.pts.org.tw/
+    url: https://about.pts.org.tw/en/
   - name: PTS 4K 公視 4K
     url: https://4k.pts.org.tw/
   - name: PeoPo 公民新聞
