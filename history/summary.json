@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
     "time": 1960,
-    "timeDay": 1474,
-    "timeWeek": 1893,
-    "timeMonth": 1837,
-    "timeYear": 1885,
+    "timeDay": 2254,
+    "timeWeek": 2006,
+    "timeMonth": 1842,
+    "timeYear": 1886,
     "dailyMinutesDown": {
       "2022-08-22": 373,
       "2022-07-16": 60,
@@ -46,8 +46,7 @@
       "2021-10-27": 63,
       "2021-10-14": 63,
       "2021-10-06": 60,
-      "2021-09-30": 60,
-      "2021-09-27": 120
+      "2021-09-30": 60
     }
   },
   {
@@ -56,18 +55,19 @@
     "icon": "https://favicons.githubusercontent.com/taigi.pts.org.tw",
     "slug": "pts-taigi",
     "status": "down",
-    "uptime": "96.39%",
+    "uptime": "96.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.61%",
+    "uptimeMonth": "32.45%",
     "uptimeYear": "93.89%",
     "time": 1605,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1626,
-    "timeYear": 1652,
+    "timeMonth": 1591,
+    "timeYear": 1653,
     "dailyMinutesDown": {
-      "2022-09-26": 9,
+      "2022-09-27": 15,
+      "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
@@ -101,8 +101,7 @@
       "2022-01-04": 59,
       "2021-12-06": 179,
       "2021-09-29": 244,
-      "2021-09-28": 552,
-      "2021-09-27": 664
+      "2021-09-28": 552
     }
   },
   {
@@ -116,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 919,
-    "timeDay": 986,
-    "timeWeek": 905,
-    "timeMonth": 794,
-    "timeYear": 922,
+    "time": 918,
+    "timeDay": 1169,
+    "timeWeek": 966,
+    "timeMonth": 813,
+    "timeYear": 924,
     "dailyMinutesDown": {
       "2022-07-14": 60,
       "2022-07-07": 78,
@@ -141,8 +140,7 @@
       "2021-12-06": 178,
       "2021-11-26": 49,
       "2021-09-29": 125,
-      "2021-09-28": 118,
-      "2021-09-27": 119
+      "2021-09-28": 118
     }
   },
   {
@@ -157,9 +155,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
-    "timeDay": 365,
-    "timeWeek": 387,
-    "timeMonth": 387,
+    "timeDay": 389,
+    "timeWeek": 400,
+    "timeMonth": 388,
     "timeYear": 393,
     "dailyMinutesDown": {}
   },
@@ -169,15 +167,15 @@
     "icon": "https://favicons.githubusercontent.com/web.pts.org.tw",
     "slug": "tv-schedule",
     "status": "up",
-    "uptime": "91.32%",
+    "uptime": "91.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.60%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "85.73%",
-    "time": 946,
-    "timeDay": 978,
-    "timeWeek": 1070,
-    "timeMonth": 1033,
+    "time": 944,
+    "timeDay": 1022,
+    "timeWeek": 1110,
+    "timeMonth": 1028,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2022-09-23": 57,
@@ -244,8 +242,7 @@
       "2021-10-01": 1440,
       "2021-09-30": 1440,
       "2021-09-29": 1440,
-      "2021-09-28": 55,
-      "2021-09-27": 118
+      "2021-09-28": 55
     }
   },
   {
@@ -254,18 +251,19 @@
     "icon": "https://favicons.githubusercontent.com/about.pts.org.tw",
     "slug": "pts-eng",
     "status": "down",
-    "uptime": "88.17%",
+    "uptime": "88.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.37%",
-    "time": 1494,
+    "uptimeYear": "81.10%",
+    "time": 1497,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1904,
+    "timeYear": 1909,
     "dailyMinutesDown": {
-      "2022-09-26": 10,
+      "2022-09-27": 15,
+      "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
@@ -338,8 +336,7 @@
       "2021-11-05": 1440,
       "2021-11-04": 1440,
       "2021-11-03": 1440,
-      "2021-11-02": 896,
-      "2021-09-27": 118
+      "2021-11-02": 896
     }
   },
   {
@@ -353,17 +350,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 484,
-    "timeDay": 581,
-    "timeWeek": 590,
-    "timeMonth": 647,
-    "timeYear": 517,
+    "time": 485,
+    "timeDay": 856,
+    "timeWeek": 682,
+    "timeMonth": 660,
+    "timeYear": 518,
     "dailyMinutesDown": {
       "2022-07-14": 60,
       "2022-06-28": 57,
       "2022-06-14": 240,
-      "2022-01-04": 57,
-      "2021-09-27": 117
+      "2022-01-04": 57
     }
   },
   {
@@ -372,16 +368,16 @@
     "icon": "https://favicons.githubusercontent.com/www.peopo.org",
     "slug": "peo-po",
     "status": "up",
-    "uptime": "89.18%",
+    "uptime": "89.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "81.46%",
-    "time": 2150,
-    "timeDay": 1650,
-    "timeWeek": 1971,
-    "timeMonth": 1917,
-    "timeYear": 2221,
+    "time": 2151,
+    "timeDay": 2581,
+    "timeWeek": 2155,
+    "timeMonth": 1931,
+    "timeYear": 2222,
     "dailyMinutesDown": {
       "2022-07-18": 62,
       "2022-07-14": 60,
@@ -457,8 +453,7 @@
       "2021-10-02": 1440,
       "2021-10-01": 1440,
       "2021-09-30": 1440,
-      "2021-09-29": 1431,
-      "2021-09-27": 117
+      "2021-09-29": 1431
     }
   },
   {
@@ -467,18 +462,19 @@
     "icon": "https://favicons.githubusercontent.com/shop.pts.org.tw",
     "slug": "pts-shop",
     "status": "down",
-    "uptime": "83.05%",
+    "uptime": "82.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.38%",
-    "time": 735,
+    "uptimeYear": "90.10%",
+    "time": 732,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2022-09-26": 10,
+      "2022-09-27": 15,
+      "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
@@ -517,8 +513,7 @@
       "2022-07-14": 60,
       "2022-06-28": 56,
       "2022-01-04": 56,
-      "2021-12-12": 60,
-      "2021-09-27": 116
+      "2021-12-12": 60
     }
   },
   {
@@ -527,18 +522,19 @@
     "icon": "https://friends.pts.org.tw/images/pts-membership-logo.png",
     "slug": "pts-friends",
     "status": "down",
-    "uptime": "96.69%",
+    "uptime": "96.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.61%",
-    "uptimeYear": "94.34%",
+    "uptimeMonth": "32.31%",
+    "uptimeYear": "94.07%",
     "time": 1327,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1402,
+    "timeMonth": 1404,
     "timeYear": 1367,
     "dailyMinutesDown": {
-      "2022-09-26": 10,
+      "2022-09-27": 15,
+      "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
@@ -569,8 +565,7 @@
       "2022-01-04": 56,
       "2021-12-06": 176,
       "2021-09-29": 189,
-      "2021-09-28": 252,
-      "2021-09-27": 116
+      "2021-09-28": 252
     }
   }
 ]
