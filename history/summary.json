@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pts.org.tw.ico",
     "slug": "pts",
     "status": "up",
-    "uptime": "97.81%",
+    "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.74%",
-    "time": 1390,
-    "timeDay": 930,
-    "timeWeek": 732,
-    "timeMonth": 912,
-    "timeYear": 1239,
+    "uptimeYear": "94.94%",
+    "time": 1388,
+    "timeDay": 1054,
+    "timeWeek": 766,
+    "timeMonth": 932,
+    "timeYear": 1228,
     "dailyMinutesDown": {
       "2022-12-16": 59,
       "2022-11-01": 177,
@@ -39,8 +39,7 @@
       "2022-10-13": 876,
       "2022-10-12": 485,
       "2022-10-11": 857,
-      "2022-10-10": 777,
-      "2022-10-09": 821
+      "2022-10-10": 777
     }
   },
   {
@@ -53,12 +52,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "92.98%",
+    "uptimeYear": "93.25%",
     "time": 1627,
-    "timeDay": 1087,
-    "timeWeek": 1312,
-    "timeMonth": 1606,
-    "timeYear": 1630,
+    "timeDay": 1101,
+    "timeWeek": 1248,
+    "timeMonth": 1582,
+    "timeYear": 1628,
     "dailyMinutesDown": {
       "2023-09-30": 60,
       "2023-09-20": 59,
@@ -89,8 +88,7 @@
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
-      "2022-10-10": 1440,
-      "2022-10-09": 1440
+      "2022-10-10": 1440
     }
   },
   {
@@ -104,10 +102,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
-    "time": 730,
-    "timeDay": 663,
-    "timeWeek": 701,
-    "timeMonth": 698,
+    "time": 729,
+    "timeDay": 554,
+    "timeWeek": 680,
+    "timeMonth": 682,
     "timeYear": 709,
     "dailyMinutesDown": {
       "2023-09-18": 59,
@@ -125,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.92%",
-    "time": 498,
-    "timeDay": 822,
-    "timeWeek": 1154,
-    "timeMonth": 1091,
-    "timeYear": 540,
+    "time": 499,
+    "timeDay": 836,
+    "timeWeek": 921,
+    "timeMonth": 1093,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2023-09-20": 120,
       "2023-07-26": 120,
@@ -147,11 +145,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 894,
-    "timeDay": 689,
-    "timeWeek": 842,
-    "timeMonth": 905,
-    "timeYear": 877,
+    "time": 893,
+    "timeDay": 649,
+    "timeWeek": 798,
+    "timeMonth": 889,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2023-07-05": 59
     }
@@ -162,16 +160,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/about.pts.org.tw.ico",
     "slug": "pts-eng",
     "status": "up",
-    "uptime": "89.01%",
+    "uptime": "89.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.32%",
-    "time": 1966,
-    "timeDay": 1447,
-    "timeWeek": 1901,
-    "timeMonth": 1975,
-    "timeYear": 1936,
+    "uptimeYear": "93.60%",
+    "time": 1963,
+    "timeDay": 1397,
+    "timeWeek": 1825,
+    "timeMonth": 1958,
+    "timeYear": 1935,
     "dailyMinutesDown": {
       "2023-07-12": 54,
       "2023-02-14": 187,
@@ -198,8 +196,7 @@
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
-      "2022-10-10": 1440,
-      "2022-10-09": 1440
+      "2022-10-10": 1440
     }
   },
   {
@@ -214,8 +211,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 495,
-    "timeDay": 287,
-    "timeWeek": 391,
+    "timeDay": 347,
+    "timeWeek": 401,
     "timeMonth": 431,
     "timeYear": 470,
     "dailyMinutesDown": {}
@@ -226,16 +223,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.peopo.org.ico",
     "slug": "peo-po",
     "status": "up",
-    "uptime": "93.03%",
+    "uptime": "93.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 2493,
-    "timeDay": 1837,
-    "timeWeek": 2028,
-    "timeMonth": 2013,
-    "timeYear": 2553,
+    "timeDay": 1598,
+    "timeWeek": 1950,
+    "timeMonth": 1995,
+    "timeYear": 2551,
     "dailyMinutesDown": {
       "2023-08-27": 239,
       "2023-07-05": 59,
@@ -248,8 +245,7 @@
       "2022-10-26": 56,
       "2022-10-23": 181,
       "2022-10-22": 57,
-      "2022-10-10": 20,
-      "2022-10-09": 1440
+      "2022-10-10": 20
     }
   },
   {
@@ -258,16 +254,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.pts.org.tw.ico",
     "slug": "pts-shop",
     "status": "up",
-    "uptime": "85.88%",
+    "uptime": "85.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "93.37%",
-    "time": 904,
-    "timeDay": 1511,
-    "timeWeek": 1771,
-    "timeMonth": 2317,
-    "timeYear": 974,
+    "uptimeYear": "93.65%",
+    "time": 906,
+    "timeDay": 1355,
+    "timeWeek": 1706,
+    "timeMonth": 2300,
+    "timeYear": 975,
     "dailyMinutesDown": {
       "2023-09-20": 44,
       "2023-01-04": 60,
@@ -293,8 +289,7 @@
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
-      "2022-10-10": 1440,
-      "2022-10-09": 1440
+      "2022-10-10": 1440
     }
   },
   {
@@ -303,16 +298,16 @@
     "icon": "https://friends.pts.org.tw/images/pts-membership-logo.png",
     "slug": "pts-friends",
     "status": "up",
-    "uptime": "94.23%",
+    "uptime": "94.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.06%",
-    "time": 1287,
-    "timeDay": 841,
-    "timeWeek": 1210,
-    "timeMonth": 1263,
-    "timeYear": 1284,
+    "uptimeYear": "93.33%",
+    "time": 1286,
+    "timeDay": 806,
+    "timeWeek": 1064,
+    "timeMonth": 1240,
+    "timeYear": 1283,
     "dailyMinutesDown": {
       "2023-07-05": 59,
       "2022-11-02": 425,
@@ -338,8 +333,7 @@
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
-      "2022-10-10": 1440,
-      "2022-10-09": 1440
+      "2022-10-10": 1440
     }
   }
 ]
