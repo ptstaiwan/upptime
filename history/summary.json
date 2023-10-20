@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.55%",
+    "uptimeYear": "96.74%",
     "time": 1215,
-    "timeDay": 1327,
-    "timeWeek": 1030,
+    "timeDay": 1344,
+    "timeWeek": 1161,
     "timeMonth": 961,
-    "timeYear": 1092,
+    "timeYear": 1085,
     "dailyMinutesDown": {
       "2022-12-16": 59,
       "2022-11-01": 177,
@@ -28,8 +28,7 @@
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
-      "2022-10-21": 1440,
-      "2022-10-20": 1043
+      "2022-10-21": 1440
     }
   },
   {
@@ -38,16 +37,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.taigitv.org.tw.ico",
     "slug": "pts-taigi",
     "status": "up",
-    "uptime": "94.06%",
+    "uptime": "94.07%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.73%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "99.44%",
-    "uptimeYear": "95.97%",
-    "time": 1621,
-    "timeDay": 1796,
-    "timeWeek": 1513,
-    "timeMonth": 1545,
-    "timeYear": 1622,
+    "uptimeYear": "96.24%",
+    "time": 1623,
+    "timeDay": 2246,
+    "timeWeek": 1612,
+    "timeMonth": 1567,
+    "timeYear": 1624,
     "dailyMinutesDown": {
       "2023-10-13": 72,
       "2023-10-12": 56,
@@ -69,8 +68,7 @@
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
-      "2022-10-21": 1440,
-      "2022-10-20": 1440
+      "2022-10-21": 1440
     }
   },
   {
@@ -84,10 +82,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 728,
-    "timeDay": 640,
-    "timeWeek": 750,
-    "timeMonth": 699,
+    "time": 727,
+    "timeDay": 707,
+    "timeWeek": 678,
+    "timeMonth": 696,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2023-09-18": 59,
@@ -105,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.92%",
-    "time": 517,
-    "timeDay": 1085,
-    "timeWeek": 1488,
+    "time": 518,
+    "timeDay": 866,
+    "timeWeek": 1256,
     "timeMonth": 1185,
-    "timeYear": 566,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2023-09-20": 120,
       "2023-07-26": 120,
@@ -128,10 +126,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 890,
-    "timeDay": 859,
-    "timeWeek": 870,
-    "timeMonth": 848,
-    "timeYear": 872,
+    "timeDay": 1067,
+    "timeWeek": 872,
+    "timeMonth": 853,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2023-07-05": 59
     }
@@ -142,15 +140,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/about.pts.org.tw.ico",
     "slug": "pts-eng",
     "status": "up",
-    "uptime": "89.13%",
+    "uptime": "89.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.34%",
-    "time": 1959,
-    "timeDay": 1964,
-    "timeWeek": 1976,
-    "timeMonth": 1943,
+    "uptimeYear": "96.61%",
+    "time": 1958,
+    "timeDay": 1986,
+    "timeWeek": 1955,
+    "timeMonth": 1954,
     "timeYear": 1935,
     "dailyMinutesDown": {
       "2023-07-12": 54,
@@ -167,8 +165,7 @@
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
-      "2022-10-21": 1440,
-      "2022-10-20": 1440
+      "2022-10-21": 1440
     }
   },
   {
@@ -182,9 +179,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 447,
-    "timeWeek": 462,
+    "time": 489,
+    "timeDay": 283,
+    "timeWeek": 454,
     "timeMonth": 417,
     "timeYear": 467,
     "dailyMinutesDown": {}
@@ -200,11 +197,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 2480,
-    "timeDay": 2311,
-    "timeWeek": 1924,
-    "timeMonth": 1973,
-    "timeYear": 2517,
+    "time": 2481,
+    "timeDay": 2296,
+    "timeWeek": 1954,
+    "timeMonth": 1975,
+    "timeYear": 2519,
     "dailyMinutesDown": {
       "2023-08-27": 239,
       "2023-07-05": 59,
@@ -225,16 +222,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.pts.org.tw.ico",
     "slug": "pts-shop",
     "status": "up",
-    "uptime": "86.04%",
+    "uptime": "86.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "96.39%",
-    "time": 930,
-    "timeDay": 1831,
-    "timeWeek": 1634,
-    "timeMonth": 2238,
-    "timeYear": 993,
+    "uptimeYear": "96.66%",
+    "time": 933,
+    "timeDay": 1878,
+    "timeWeek": 1625,
+    "timeMonth": 2031,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2023-09-20": 44,
       "2023-01-04": 60,
@@ -249,8 +246,7 @@
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
-      "2022-10-21": 1440,
-      "2022-10-20": 1440
+      "2022-10-21": 1440
     }
   },
   {
@@ -259,15 +255,15 @@
     "icon": "https://friends.pts.org.tw/images/pts-membership-logo.png",
     "slug": "pts-friends",
     "status": "up",
-    "uptime": "94.29%",
+    "uptime": "94.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.07%",
-    "time": 1284,
-    "timeDay": 1627,
-    "timeWeek": 1198,
-    "timeMonth": 1208,
+    "uptimeYear": "96.35%",
+    "time": 1285,
+    "timeDay": 1461,
+    "timeWeek": 1257,
+    "timeMonth": 1214,
     "timeYear": 1279,
     "dailyMinutesDown": {
       "2023-07-05": 59,
@@ -283,8 +279,7 @@
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
-      "2022-10-21": 1440,
-      "2022-10-20": 1440
+      "2022-10-21": 1440
     }
   }
 ]
